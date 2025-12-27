@@ -1,6 +1,13 @@
 # Income Classification Using Machine Learning Models
 ## Overview
 This repository presents a comparative analysis of multiple machine learning models applied to a binary income classification task (≤ $50K vs. > $50K). The objective of the project is to evaluate and rank different supervised learning algorithms on non-linearly separable, imbalanced data, and to identify the most effective model based on performance metrics such as accuracy, precision, recall, confusion matrices, and precision–recall (PR) curves.
+
+The **full project report** detailing the methodology, experiments, results, and analysis is available in:
+- **`Adult Dataset Report.pdf`**
+
+The **code used to produce the original findings and results** discussed in the report is provided in:
+- **`Machine_Learning_Assignment2.ipynb`**
+
 ## Models Evaluated
 The following machine learning models were implemented and analyzed:
 - **Decision Tree Classifier**    
