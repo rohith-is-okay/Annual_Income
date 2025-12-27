@@ -8,6 +8,9 @@ The **full project report** detailing the methodology, experiments, results, and
 The **code used to produce the original findings and results** discussed in the report is provided in:
 - **`Machine_Learning_Assignment2.ipynb`**
 
+The **Original dataset** used in this project
+- **`https://archive.ics.uci.edu/dataset/2/adult`**
+
 ## Models Evaluated
 The following machine learning models were implemented and analyzed:
 - **Decision Tree Classifier**    
